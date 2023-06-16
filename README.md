@@ -1,6 +1,6 @@
-Working-with-pandas
+#Working-with-pandas
 This contains my learning of pandas library.
-#KEY FEATURES:
+KEY FEATURES:
 Fast and efficient DataFrame object with default and customized indexing.
 Tools for loading data into in-memory data objects from different file formats.
 Data alignment and integrated handling of missing data.
